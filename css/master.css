@@ -1,0 +1,37 @@
+html {
+	background-color:rgb(0, 0, 0);
+	background-size: cover;
+}
+
+@font-face {
+    font-family: myFont;
+    src: url(BitBoy16.ttf)
+}
+
+h1{
+    font-family: myFont;
+    color: aliceblue;
+    font-size: calc(44px + 2vw);
+    width: 33%;
+    float: left;
+    float: right;
+    padding-left: 20%;
+}
+#headerimg{
+    float:left;
+    float:right;
+    width: 33%;
+}
+div{
+    float: left;
+    width:42%;
+    padding-left: 8%;
+}
+#img1{
+    padding-left: 10%;
+}
+
+#imgrow2{
+    width: 33%;
+
+}
